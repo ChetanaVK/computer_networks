@@ -5,7 +5,8 @@ The project involves a quiz given out by the teacher with multiple choice questi
 
 ## Topology
 <img src="src/image.png" width="900" height="600">
-Server and client modules were developed to handle multiple clients where each thread served one client.
-Sockets were used to establish communication between client and server via TCP .
-Threads were used to provide a multi client environment.
-Locks were used to synchronize between multiple threads
+
+Server and client modules were developed to handle multiple clients where each thread served one client. &nbsp
+Sockets were used to establish communication between client and server via TCP. &nbsp
+Threads were used to provide a multi client environment. &nbsp
+Locks were used to synchronize between multiple threads &nbsp
